@@ -1,2 +1,2 @@
 # EINDefi
-The EINUSDT App
+The EINUSDT Dapp
